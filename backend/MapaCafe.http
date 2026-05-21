@@ -1,0 +1,6 @@
+@MapaCafe_HostAddress = http://localhost:5276
+
+GET {{MapaCafe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

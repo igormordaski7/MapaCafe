@@ -1,0 +1,56 @@
+.nova-container {
+    padding: 24px;
+    background-color: #F7FAFB;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nova-card {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .nova-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  
+  .nova-form .ant-form-item-label > label {
+    font-weight: 500;
+  }
+  
+  .nova-form .ant-input,
+  .nova-form .ant-select-selector,
+  .nova-form .ant-input-number,
+  .nova-form .ant-input-affix-wrapper {
+    border-radius: 6px;
+  }
+  
+  .nova-form .ant-input,
+  .nova-form .ant-input-affix-wrapper {
+    height: 40px;
+  }
+  
+  .nova-form .ant-input-textarea {
+    border-radius: 6px;
+  }
+  
+  .nova-form .ant-btn-primary {
+    width: 100%;
+    border-radius: 6px;
+    background-color: #91d5ff;
+    border-color: #91d5ff;
+    height: 40px;
+    font-weight: 500;
+  }
+  
+  .nova-form .ant-btn-primary:hover {
+    background-color: #69c0ff;
+    border-color: #69c0ff;
+  }
+  

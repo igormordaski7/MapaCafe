@@ -1,0 +1,306 @@
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/appsettings.Development.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/appsettings.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/package-lock.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/package.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/public/manifest.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.deps.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.runtimeconfig.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.pdb
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Humanizer.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/MySqlConnector.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/bin/Debug/net8.0/System.CodeDom.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.AssemblyReference.cache
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.AssemblyInfoInputs.cache
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.AssemblyInfo.cs
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.CoreCompileInputs.cache
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.MvcApplicationPartsAssemblyInfo.cs
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.MvcApplicationPartsAssemblyInfo.cache
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.sourcelink.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.build.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.development.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.build.MapaCafe.props
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MapaCafe.props
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MapaCafe.props
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/scopedcss/bundle/MapaCafe.styles.css
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.Up2Date
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/refint/MapaCafe.dll
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.pdb
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.genruntimeconfig.cache
+/Users/Erik Arsego/ProjetoJava/Sem Título/MapaCafe/MapaCafe/obj/Debug/net8.0/ref/MapaCafe.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.AssemblyReference.cache
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.AssemblyInfoInputs.cache
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.AssemblyInfo.cs
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.CoreCompileInputs.cache
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.MvcApplicationPartsAssemblyInfo.cs
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.MvcApplicationPartsAssemblyInfo.cache
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.sourcelink.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/refint/MapaCafe.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.pdb
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/appsettings.Development.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/appsettings.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/package-lock.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/package.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/frontend/public/manifest.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.deps.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.runtimeconfig.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MapaCafe.pdb
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Humanizer.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/MySqlConnector.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/bin/Debug/net8.0/System.CodeDom.dll
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.build.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.development.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.build.MapaCafe.props
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MapaCafe.props
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MapaCafe.props
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/scopedcss/bundle/MapaCafe.styles.css
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.csproj.Up2Date
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/MapaCafe.genruntimeconfig.cache
+/Users/carolinacochlargraser/Documents/GitHub/MapaCafe/MapaCafe/obj/Debug/net8.0/ref/MapaCafe.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.AssemblyReference.cache
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.AssemblyInfoInputs.cache
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.AssemblyInfo.cs
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.CoreCompileInputs.cache
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.sourcelink.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\refint\MapaCafe.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.pdb
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\appsettings.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\frontend\package-lock.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\frontend\package.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\frontend\public\manifest.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.staticwebassets.endpoints.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.exe
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.deps.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.runtimeconfig.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MapaCafe.pdb
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\scopedcss\bundle\MapaCafe.styles.css
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.build.MapaCafe.props
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MapaCafe.props
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MapaCafe.props
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.Up2Date
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\MapaCafe.genruntimeconfig.cache
+C:\Users\A479776\Desktop\MapaCafe\MapaCafe\obj\Debug\net8.0\ref\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\appsettings.Development.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\appsettings.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\frontend\package-lock.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\frontend\package.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\frontend\public\manifest.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MapaCafe.exe
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MapaCafe.deps.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MapaCafe.runtimeconfig.json
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MapaCafe.pdb
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Humanizer.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\MySqlConnector.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TrabalhoSexta\MapaCafe\bin\Debug\net8.0\System.CodeDom.dll
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.AssemblyReference.cache
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.AssemblyInfoInputs.cache
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.AssemblyInfo.cs
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.CoreCompileInputs.cache
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cs
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.sourcelink.json
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets.build.json
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets.development.json
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.build.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\scopedcss\bundle\MapaCafe.styles.css
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.csproj.Up2Date
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\refint\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.pdb
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\MapaCafe.genruntimeconfig.cache
+C:\TrabalhoSexta\MapaCafe\obj\Debug\net8.0\ref\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\appsettings.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\appsettings.Development.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\appsettings.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\frontend\package-lock.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\frontend\package.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\frontend\public\manifest.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\MapaCafe.deps.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\MapaCafe.runtimeconfig.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\net8.0\MapaCafe.staticwebassets.endpoints.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MapaCafe.exe
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MapaCafe.deps.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MapaCafe.runtimeconfig.json
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MapaCafe.pdb
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Humanizer.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\MySqlConnector.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\System.Text.Json.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.csproj.AssemblyReference.cache
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.AssemblyInfoInputs.cache
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.AssemblyInfo.cs
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.csproj.CoreCompileInputs.cache
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cs
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.sourcelink.json
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets\msbuild.MapaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MapaCafe.props
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\scopedcss\bundle\MapaCafe.styles.css
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.csproj.Up2Date
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\refint\MapaCafe.dll
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.pdb
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\MapaCafe.genruntimeconfig.cache
+C:\TrabalhoSexta\MapaCafe\backend\obj\Debug\net8.0\ref\MapaCafe.dll
