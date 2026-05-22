@@ -21,6 +21,7 @@ builder.Services.AddCors(options =>
 });
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<MapaCafeContext>(options =>
     options.UseNpgsql(connectionString));
 
@@ -33,22 +34,28 @@ builder.Services.AddControllers()
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-
 var app = builder.Build();
-
-    app.UseSwagger();
-    app.UseSwaggerUI();
-
 
 app.UseCors(reactOrigins);
 
-app.MapControllers();
+app.UseSwagger();
+app.UseSwaggerUI();
 
-using (var scope = app.Services.CreateScope())
+app.MapGet("/", () => "MapaCafe API online");
+
+app.MapGet("/health/db", async (MapaCafeContext db) =>
 {
-    var db = scope.ServiceProvider.GetRequiredService<MapaCafeContext>();
-    db.Database.EnsureCreated();
-}
+    try
+    {
+        var canConnect = await db.Database.CanConnectAsync();
+        return Results.Ok(new { database = canConnect ? "conectado" : "nao conectado" });
+    }
+    catch (Exception ex)
+    {
+        return Results.Problem(ex.Message);
+    }
+});
+
+app.MapControllers();
 
 app.Run();
