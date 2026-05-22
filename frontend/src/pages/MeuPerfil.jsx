@@ -9,31 +9,31 @@ const MeuPerfil = () => {
   const [form] = Form.useForm();
   const [perfilId, setPerfilId] = useState(null);
 
+ useEffect(() => {
   const apiBaseUrl = `${API_URL}/api/Perfil`;
 
-  useEffect(() => {
-    fetch(apiBaseUrl)
-      .then((res) => {
-        if (!res.ok) throw new Error('Erro ao buscar perfil');
-        return res.json();
-      })
-      .then((data) => {
-        if (Array.isArray(data) && data.length > 0) {
-          const perfil = data[0];
+  fetch(apiBaseUrl)
+    .then((res) => {
+      if (!res.ok) throw new Error('Erro ao buscar perfil');
+      return res.json();
+    })
+    .then((data) => {
+      if (Array.isArray(data) && data.length > 0) {
+        const perfil = data[0];
 
-          form.setFieldsValue({
-            nome: perfil.nomeUsuario,
-            email: perfil.emailUsuario,
-            biografia: perfil.biografia,
-          });
+        form.setFieldsValue({
+          nome: perfil.nomeUsuario,
+          email: perfil.emailUsuario,
+          biografia: perfil.biografia,
+        });
 
-          setPerfilId(perfil.id);
-        }
-      })
-      .catch((err) => {
-        console.log('Não há perfil salvo ou falha no GET', err);
-      });
-  }, [form]);
+        setPerfilId(perfil.id);
+      }
+    })
+    .catch((err) => {
+      console.log('Não há perfil salvo ou falha no GET', err);
+    });
+}, [form]);
 
   const onFinish = (values) => {
     const telefonePadrao = 0;
