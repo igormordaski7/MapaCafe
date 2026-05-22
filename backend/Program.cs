@@ -8,6 +8,7 @@ var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 
 var reactOrigins = "_reactOrigins";
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy(name: reactOrigins, policy =>
@@ -46,8 +47,6 @@ var app = builder.Build();
 
 
 app.UseCors(reactOrigins);
-
-app.UseHttpsRedirection();
 
 app.MapControllers();
 
