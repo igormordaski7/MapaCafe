@@ -9,29 +9,29 @@ const MeuPerfil = () => {
   const [form] = Form.useForm();
   const [perfilId, setPerfilId] = useState(null);
 
- useEffect(() => {
-  fetch(`${API_URL}/api/Perfil`)
-    .then((res) => {
-      if (!res.ok) throw new Error('Erro ao buscar perfil');
-      return res.json();
-    })
-    .then((data) => {
-      if (Array.isArray(data) && data.length > 0) {
-        const perfil = data[0];
+  useEffect(() => {
+    fetch(`${API_URL}/api/Perfil`)
+      .then((res) => {
+        if (!res.ok) throw new Error('Erro ao buscar perfil');
+        return res.json();
+      })
+      .then((data) => {
+        if (Array.isArray(data) && data.length > 0) {
+          const perfil = data[0];
 
-        form.setFieldsValue({
-          nome: perfil.nomeUsuario,
-          email: perfil.emailUsuario,
-          biografia: perfil.biografia,
-        });
+          form.setFieldsValue({
+            nome: perfil.nomeUsuario,
+            email: perfil.emailUsuario,
+            biografia: perfil.biografia,
+          });
 
-        setPerfilId(perfil.id);
-      }
-    })
-    .catch((err) => {
-      console.log('Não há perfil salvo ou falha no GET', err);
-    });
-}, [form]);
+          setPerfilId(perfil.id);
+        }
+      })
+      .catch((err) => {
+        console.log('Não há perfil salvo ou falha no GET', err);
+      });
+  }, [form]);
 
   const onFinish = (values) => {
     const telefonePadrao = 0;
@@ -42,10 +42,10 @@ const MeuPerfil = () => {
         nomeUsuario: values.nome,
         emailUsuario: values.email,
         biografia: values.biografia || '',
-        telefoneUsuario: telefonePadrao
+        telefoneUsuario: telefonePadrao,
       };
 
-      fetch(`${apiBaseUrl}/${perfilId}`, {
+      fetch(`${API_URL}/api/Perfil/${perfilId}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payloadParaPut),
@@ -58,17 +58,15 @@ const MeuPerfil = () => {
           console.error(err);
           message.error('Falha ao atualizar perfil.');
         });
-
     } else {
-
       const payloadParaPost = {
         nomeUsuario: values.nome,
         emailUsuario: values.email,
         biografia: values.biografia || '',
-        telefoneUsuario: telefonePadrao
+        telefoneUsuario: telefonePadrao,
       };
 
-      fetch(apiBaseUrl, {
+      fetch(`${API_URL}/api/Perfil`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payloadParaPost),
@@ -111,16 +109,13 @@ const MeuPerfil = () => {
             label="E-mail"
             rules={[
               { required: true, message: 'Informe seu e-mail' },
-              { type: 'email', message: 'Formato de e-mail inválido' }
+              { type: 'email', message: 'Formato de e-mail inválido' },
             ]}
           >
             <Input placeholder="E-mail" />
           </Form.Item>
 
-          <Form.Item
-            name="biografia"
-            label="Minha Biografia"
-          >
+          <Form.Item name="biografia" label="Minha Biografia">
             <TextArea placeholder="Minha Biografia" rows={4} />
           </Form.Item>
 
