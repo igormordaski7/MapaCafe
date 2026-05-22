@@ -10,9 +10,7 @@ const MeuPerfil = () => {
   const [perfilId, setPerfilId] = useState(null);
 
  useEffect(() => {
-  const apiBaseUrl = `${API_URL}/api/Perfil`;
-
-  fetch(apiBaseUrl)
+  fetch(`${API_URL}/api/Perfil`)
     .then((res) => {
       if (!res.ok) throw new Error('Erro ao buscar perfil');
       return res.json();
