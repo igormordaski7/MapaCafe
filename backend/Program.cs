@@ -17,7 +17,7 @@ builder.Services.AddCors(options =>
                 "http://localhost:3000",
                 "http://localhost",
                 "http://frontend",
-                "https://seudominio.vercel.app"
+                "https://mapa-cafe.vercel.app"
             )
             .AllowAnyMethod()
             .AllowAnyHeader();
