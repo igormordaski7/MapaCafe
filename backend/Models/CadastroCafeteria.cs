@@ -12,12 +12,10 @@ namespace MapaCafe.Models
         public string? cepEndereco { get; set; }
         public string comidaFavorita { get; set; } = string.Empty;
         public string bebidaFavorita { get; set; } = string.Empty;
-
         public int avaliacaoCafeteria { get; set; }
         public string observacoesCafeteria { get; set; } = string.Empty;
 
         public int? UsuarioId { get; set; }
         public CadastroUsuario? Usuario { get; set; }
-
     }
 }

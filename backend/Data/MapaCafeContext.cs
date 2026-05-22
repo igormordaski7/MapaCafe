@@ -18,15 +18,9 @@ namespace MapaCafe.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<DadosUsuario>()
-                .HasKey(u => u.Id);
-
-            modelBuilder.Entity<CadastroUsuario>()
-                .HasBaseType<DadosUsuario>();
-
-            modelBuilder.Entity<PerfilUsuario>()
-                .HasBaseType<DadosUsuario>();
-
+            modelBuilder.Entity<CadastroCafeteria>().ToTable("Cafeterias");
+            modelBuilder.Entity<CadastroUsuario>().ToTable("Usuarios");
+            modelBuilder.Entity<PerfilUsuario>().ToTable("Perfis");
         }
     }
 }
