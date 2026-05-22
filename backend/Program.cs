@@ -14,12 +14,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: reactOrigins, policy =>
     {
         policy
-            .WithOrigins(
-                "http://localhost:3000",
-                "http://localhost",
-                "http://frontend",
-                "https://mapa-cafe.vercel.app"
-            )
+            .AllowAnyOrigin()
             .AllowAnyMethod()
             .AllowAnyHeader();
     });
