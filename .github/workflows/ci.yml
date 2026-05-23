@@ -1,0 +1,53 @@
+name: CI - Mapa Cafe
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  backend:
+    name: Build Backend .NET
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Instalar .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restaurar dependências
+        run: dotnet restore
+        working-directory: backend
+
+      - name: Build backend
+        run: dotnet build --configuration Release --no-restore
+        working-directory: backend
+
+  frontend:
+    name: Build Frontend React
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm install
+        working-directory: frontend
+
+      - name: Build frontend
+        run: npm run build
+        working-directory: frontend
+        env:
+          CI: false
+          REACT_APP_API_URL: https://mapacafe.onrender.com

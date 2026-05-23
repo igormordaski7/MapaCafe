@@ -43,12 +43,23 @@ app.UseSwaggerUI();
 
 app.MapGet("/", () => "MapaCafe API online");
 
+app.MapGet("/health", () => Results.Ok(new
+{
+    status = "online",
+    service = "MapaCafe API",
+    environment = app.Environment.EnvironmentName
+}));
+
 app.MapGet("/health/db", async (MapaCafeContext db) =>
 {
     try
     {
         var canConnect = await db.Database.CanConnectAsync();
-        return Results.Ok(new { database = canConnect ? "conectado" : "nao conectado" });
+
+        return Results.Ok(new
+        {
+            database = canConnect ? "conectado" : "nao conectado"
+        });
     }
     catch (Exception ex)
     {

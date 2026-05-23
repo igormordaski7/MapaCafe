@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapaCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026327306113458fd708628ba5d11e7e68e1ef6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6715b9a9d08db11935d0a3ba160607cbf0660bb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapaCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapaCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
